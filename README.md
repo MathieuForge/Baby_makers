@@ -7,16 +7,16 @@
 ## Technologies Used
 
 - Power BI for data visualization
-- Python for data analysis on Jupyter Notebooks
+- Python for data analysis on Google collab
 - SQL on BigQuery for data management
 
 ## Installation
 
-To utilize this project, you need to have Python and Power BI installed on your machine. Access to BigQuery for SQL queries is also required.
+To utilize this project, you need to have Python and Power BI installed on your machine. Access to BigQuery (or other)for SQL queries is also required.
 
 ## Usage
 
-Once installed, you can interact with the Jupyter notebooks to explore the conducted analyses. Use Power BI to visualize the charts and adjust the indicators according to your interests to observe the impact of sports victories.
+Once installed, you can interact with the google collab to explore the conducted analyses. Use Power BI to visualize the charts and adjust the indicators according to your interests to observe the impact of sports victories.
 
 ## Contributing
 
